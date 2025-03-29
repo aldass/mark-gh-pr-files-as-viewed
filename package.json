@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "puppeteer": "^24.4.0"
+  },
+  "name": "mark-gh-pr-files-as-viewed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node mark_viewed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
